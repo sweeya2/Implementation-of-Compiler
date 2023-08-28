@@ -5,7 +5,7 @@
 
 Across a series of four assignments, our objective is to construct a compiler for a C-like language, focusing on a manageable subset known as nanoC. This subset retains the essential aspects of C while ensuring feasibility. The compiler's implementation is divided into the following four assignments:
 
-* **ssignment 3** - Lexical Analyzer: In this phase, we create a lexical analyzer for nanoC using the Flex tool. We define the lexical grammar specification to enable the identification and extraction of tokens from the source code.
+* **Assignment 3** - Lexical Analyzer: In this phase, we create a lexical analyzer for nanoC using the Flex tool. We define the lexical grammar specification to enable the identification and extraction of tokens from the source code.
 
 * **Assignment 4** - Parser: The parser for nanoC is developed using Bison. This phase involves constructing a syntax analyzer based on the phase structure grammar outlined in Assignment 3. The parser's role is to validate the arrangement of tokens and determine the correctness of the code's structure.
 
